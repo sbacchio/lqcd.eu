@@ -1,9 +1,12 @@
-=========================================================================
-EUROLAT, the European community for simulations in Lattice Field Theories
-=========================================================================
+
+EUROLAT
+=======
+
+The European Lattice Field Theories Community
+---------------------------------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
    :caption: News
    
@@ -25,7 +28,7 @@ EUROLAT, the European community for simulations in Lattice Field Theories
 
    
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
    :caption: Reasearch topics
    
@@ -34,7 +37,7 @@ EUROLAT, the European community for simulations in Lattice Field Theories
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
    :caption: Archive
    

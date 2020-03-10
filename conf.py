@@ -32,6 +32,7 @@ release = '0.0.0'
 # ones.
 extensions = [
     'sphinx.ext.autosectionlabel',
+    'sphinxcontrib.bibtex',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -65,5 +66,5 @@ html_sidebars = {
 
 html_theme_options = {
     'fixed_sidebar': True,
-    
+    'body_text_align': 'justify',
 }
