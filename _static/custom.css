@@ -5,3 +5,7 @@ span.caption-text {
     font-size: 24px;
     font-weight: normal;
 }
+
+img.logo-before-title {
+    margin: 30px 20px 30px 20px;
+}

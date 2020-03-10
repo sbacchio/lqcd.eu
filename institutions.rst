@@ -4,14 +4,15 @@ Institutions
 
 
 
-The Cyprus Institute
---------------------
-
 .. image:: _static/cyi_logo.png
    :width: 20 %
    :alt: CYI logo
    :align: left
    :target: https://www.cyi.ac.cy/
+   :class: logo-before-title
+
+The Cyprus Institute
+--------------------
 
 - **Website**: https://www.cyi.ac.cy/
 - **Coordinator:** Prof. C. Alexandrou

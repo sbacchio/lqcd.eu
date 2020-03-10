@@ -3,14 +3,15 @@ Upcoming Events
 ===============
 
 
-Lattice2020
------------
-
 .. image:: https://indico.hiskp.uni-bonn.de/event/1/logo-3980671671.png
    :width: 20 %
    :alt: Lattice2020
    :align: left
    :target: https://indico.hiskp.uni-bonn.de/event/1/
+   :class: logo-before-title
+	   
+Lattice2020
+-----------
 
 **The 38th International Symposium on Lattice Field Theory**
 
