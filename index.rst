@@ -1,20 +1,55 @@
-.. EUROLAT documentation master file, created by
-   sphinx-quickstart on Tue Mar 10 10:21:03 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+=========================================================================
+EUROLAT, the European community for simulations in Lattice Field Theories
+=========================================================================
 
-Welcome to EUROLAT's documentation!
-===================================
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: News
+   
+   upcoming_events.rst
+   recent_publications.rst
+   job_opportunities.rst
+   call_for_proposals.rst
+   
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: The community
+   
+   eurolat.rst
+   collaborations.rst
+   institutions.rst
+   computing_facilities.rst
+
+   
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Reasearch topics
+   
+   lattice.rst
+   nucleon_observables.rst
 
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Archive
+   
+   publications.rst
+   presentations.rst
+   posters.rst
+   events.rst
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Help & Reference
+   
+   faqs.rst
+   contacts.rst
+   rules.rst
+   
