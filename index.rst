@@ -20,6 +20,7 @@ EUROLAT, the European community for simulations in Lattice Field Theories
    eurolat.rst
    collaborations.rst
    institutions.rst
+   software.rst
    computing_facilities.rst
 
    
