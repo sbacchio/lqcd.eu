@@ -10,7 +10,6 @@ EUROLAT, the European community for simulations in Lattice Field Theories
    upcoming_events.rst
    recent_publications.rst
    job_opportunities.rst
-   call_for_proposals.rst
    
 
 .. toctree::
