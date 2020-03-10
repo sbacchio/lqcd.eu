@@ -1,0 +1,7 @@
+@import url("default.css");
+span.caption-text {
+    font-family: Georgia, serif;
+    color: #444;
+    font-size: 24px;
+    font-weight: normal;
+}
