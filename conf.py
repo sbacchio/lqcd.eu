@@ -61,6 +61,7 @@ html_favicon = '_static/icon.png'
 html_sidebars = {
     '**': [
         'about.html',
+        'googlegroups.html',
         'searchbox.html',
         'navigation.html',
     ]
