@@ -69,6 +69,6 @@ html_sidebars = {
 
 html_theme_options = {
     'logo': 'logo.png',
-    'fixed_sidebar': True,
+    'fixed_sidebar': False,
     'body_text_align': 'justify',
 }
