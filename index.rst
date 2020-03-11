@@ -1,9 +1,10 @@
 
-EuroLat
-=======
+EuroLat's Homepage
+==================
 
-The European Lattice Field Theories Community
----------------------------------------------
+The European Lattice Field Theory Community
+-------------------------------------------
+
 
 .. toctree::
    :maxdepth: 2
@@ -41,10 +42,10 @@ The European Lattice Field Theories Community
    :hidden:
    :caption: Archive
    
+   past_events.rst
    publications.rst
    presentations.rst
    posters.rst
-   events.rst
 
 
 .. toctree::
