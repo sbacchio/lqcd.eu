@@ -3,7 +3,7 @@ Collaborations
 ==============
 
 
-Many collaborations are part of the EUROLAT community.
+Many collaborations are part of the EuroLat community.
 They involve several universities in Europe and they are distinguished by the research interests.
 
 

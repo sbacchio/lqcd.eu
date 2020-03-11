@@ -1,5 +1,5 @@
 
-EUROLAT
+EuroLat
 =======
 
 The European Lattice Field Theories Community

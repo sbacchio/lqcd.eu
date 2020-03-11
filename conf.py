@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'EUROLAT'
+project = 'EuroLat'
 copyright = '2020, Simone Bacchio'
 author = 'Simone Bacchio'
 
