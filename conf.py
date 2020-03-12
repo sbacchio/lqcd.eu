@@ -71,4 +71,5 @@ html_theme_options = {
     'logo': 'logo.png',
     'fixed_sidebar': False,
     'body_text_align': 'justify',
+    'caption_font_size': '14px',
 }
