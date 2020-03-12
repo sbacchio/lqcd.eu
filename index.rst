@@ -1,16 +1,15 @@
 
-EuroLat's Homepage
-==================
+Homepage
+========
 
 The European Lattice Field Theory Community
 -------------------------------------------
 
 Eurolat is an association of the  European Lattice Field Theory Community.
-It includes **X** :ref:`collaborations <Collaborations>` engaged in cutting-edge research in Lattice Field Theory
-composed by a large number of researchers from **Y** :ref:`institutions <Institutions>` all around Europe.
+It includes Euro based :ref:`collaborations <Collaborations>` engaged in cutting-edge research in Lattice Field Theory
+composed by a large number of researchers from :ref:`institutions <Institutions>` all around Europe.
 
-The main purpose of EuroLat is to grant community access to the European Lattice Field Theory Community
-for computer time on the :ref:`European supercomputers facilities <Computing Facilities>`. The objectives of the association are
+The objectives of the association are:
 
 - Definition of computing requirements for the Lattice QCD community based on a broad scientific programme 
 - Consultation and participation in decisions on hardware procurement, based on community-defined benchmark codes
@@ -22,7 +21,7 @@ for computer time on the :ref:`European supercomputers facilities <Computing Fac
 Highlights
 ----------
 
-Upcoming events are
+Upcoming events are:
 
 - :ref:`Lattice 2020 <Lattice2020>`, 3rd - 8th August 2020, Bonn, Germany
 
@@ -32,7 +31,6 @@ Upcoming events are
    :caption: News
    
    upcoming_events.rst
-   recent_publications.rst
    job_opportunities.rst
    
 
@@ -51,22 +49,22 @@ Upcoming events are
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :glob:
    :caption: Reasearch topics
-   
-   latticeQCD.rst
-   nucleon_observables.rst
-   algorithms.rst
 
+   research/*
+   
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Archive
-   
+
+   community_reports.rst
    past_events.rst
-   publications.rst
-   presentations.rst
-   posters.rst
+..   publications.rst
+..   presentations.rst
+..   posters.rst
 
 
 .. toctree::

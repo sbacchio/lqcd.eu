@@ -1,5 +1,5 @@
-Algorithms
-==========
+Algorithms and Machines
+=======================
 
 
 Iterative Solvers
@@ -14,7 +14,7 @@ Standard Krylov solvers
 Multigrid solvers
 ^^^^^^^^^^^^^^^^^
 
-.. figure:: _static/crit_slow_down.svg
+.. figure:: crit_slow_down.svg
    :width: 70 %
       
    **Figure:** Time-to-solution required for inverting the twisted mass
