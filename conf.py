@@ -72,4 +72,5 @@ html_theme_options = {
     'fixed_sidebar': False,
     'body_text_align': 'justify',
     'caption_font_size': '14px',
+    'page_width': '960px',
 }
