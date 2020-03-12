@@ -106,7 +106,7 @@ Prof. Luigi Del Debbio
 ^^^^^^^^^^^^^^^^^^^^^^
 
 | **Institutions:** :ref:`University of Edimburgh <University of Edimburgh>`
-| **Collaboration:** 
+| **Collaboration:** UKQCD
 | **Publications:** http://inspirehep.net/author/profile/L.Del.Debbio.1
 
 Prof Del Debbio's research interests are in Quantum Field Theory. His main focus is on nonperturbative aspects of field theories, and their application to particle physics. Using both analytical and numerical methods he has worked on several aspects of Quantum Chromodynamics, low-dimensional fermionic models, and models of electroweak symmetry breaking. His numerical work relies on Monte Carlo methods, currently implemented on the latest platforms for High Performance Computing (IBM BlueGene, and GPU systems).
@@ -123,10 +123,10 @@ Prof. Frithjof Karsch
 ^^^^^^^^^^^^^^^^^^^^^
 
 | **Institutions:** :ref:`University of Bielefeld <University of Bielefeld>`
-| **Collaboration:** 
+| **Collaboration:** HotQCD
 | **Publications:** http://inspirehep.net/author/profile/F.Karsch.1
 |
-|
+| **TODO:** add short bio
 |
 
 .. image:: https://tcdlocalportal.tcd.ie/pls/public/websites.staff.display_image?p_no=427062C8652A5D5F0EAB71E9F4F7E3D8
@@ -140,10 +140,10 @@ Prof. Sinéad Ryan
 ^^^^^^^^^^^^^^^^^
 
 | **Institutions:** :ref:`Trinity College <Trinity College>`
-| **Collaboration:** 
+| **Collaboration:** FASTSUM
 | **Publications:** http://inspirehep.net/author/profile/S.M.Ryan.1
 |
-|
+| **TODO:** add short bio
 |
 
 
@@ -158,6 +158,9 @@ Prof. Hartmut Wittig
 ^^^^^^^^^^^^^^^^^^^^
 
 | **Institutions:** :ref:`University of Mainz <University of Mainz>`
-| **Collaboration:** 
+| **Collaboration:** CLS
 | **Publications:** http://inspirehep.net/author/profile/H.Wittig.1
+|
+| **TODO:** add short bio
+|
 
