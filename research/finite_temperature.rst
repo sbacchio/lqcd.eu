@@ -1,2 +1,0 @@
-Nonzero Temperature and Density
-===============================

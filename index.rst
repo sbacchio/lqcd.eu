@@ -52,7 +52,13 @@ Upcoming events are:
    :glob:
    :caption: Reasearch topics
 
-   research/*
+   research/algorithms.rst
+   research/beyondQCD.rst
+   research/chiral.rst
+   research/hadron_spectroscopy.rst
+   research/hadron_structure.rst
+   research/nonzero_temperature.rst
+   research/theoretical.rst
    
 
 .. toctree::
