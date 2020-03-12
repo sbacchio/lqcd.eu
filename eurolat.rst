@@ -43,7 +43,8 @@ which would speak on behalf of the European lattice community, act as a central 
 a coherent scientific case to EuroHPC and funding agencies, in order to maximise the benefit of the new
 pan-European approach to supercomputing.
 
-The objectives of such a body were identified as: 
+The objectives of such a body were identified as:
+
 - Definition of computing requirements for the Lattice QCD community based on a broad scientific programme 
 - Consultation and participation in decisions on hardware procurement, based on community-defined benchmark codes
 - Provision of training opportunities for Lattice QCD researchers

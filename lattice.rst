@@ -1,3 +1,0 @@
-
-Lattice Field Theories
-======================
