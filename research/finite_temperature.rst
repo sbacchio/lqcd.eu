@@ -1,2 +1,2 @@
-QCD at nonzero Temperature and Density
-======================================
+Nonzero Temperature and Density
+===============================

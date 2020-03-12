@@ -5,7 +5,7 @@ Homepage
 The European Lattice Field Theory Community
 -------------------------------------------
 
-Eurolat is an association of the  European Lattice Field Theory Community.
+:ref:`EuroLat <EuroLat>` is an association of the  European Lattice Field Theory Community.
 It includes Euro based :ref:`collaborations <Collaborations>` engaged in cutting-edge research in Lattice Field Theory
 composed by a large number of researchers from :ref:`institutions <Institutions>` all around Europe.
 
