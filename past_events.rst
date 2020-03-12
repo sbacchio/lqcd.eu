@@ -2,6 +2,8 @@
 Past Events
 ===========
 
+2020
+----
 
 .. image:: http://www.maths.tcd.ie/~mjp/STRONG2020logo.png
    :width: 20 %
@@ -11,7 +13,7 @@ Past Events
    :class: logo-before-title
 	   
 Town Hall Meeting
------------------
+^^^^^^^^^^^^^^^^^
 
 | **Where:** Dublin, Ireland
 | **When:** 5th - 6th March 2020
