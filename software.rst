@@ -1,6 +1,6 @@
 
-Our software
-============
+Software
+========
 
 The following software have been developed by the European Community
 for research in Lattice Field Theories.

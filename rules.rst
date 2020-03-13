@@ -7,12 +7,12 @@ Content of the website
 
 In this website we collect information about the European Lattice Field Theory community (ELFTc).
 This website is managed by the EuroLat association and the latter is an association open to
-any European-based researcher, institution or collaboration. If you are not a member and you wish
-to become one, please read :ref:`How to become a member <How to become a member>`.
+any Euro-based institution or collaboration. If you are not a member and you wish
+to become one, please read :ref:`How to become a member of EuroLat <How to become a member of EuroLat>`.
 
 The website is meant to advertise events, research, results, projects, job opportunities and any other
 remarkable activities of the ELFTc. If you have any content of this kind you want to advertise on the
-website, please read :ref:`How to add content <How to add content>`.
+website, please read :ref:`How to add content to the website <How to add content to the website>`.
 
 The rules of the website are:
 

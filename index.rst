@@ -39,7 +39,7 @@ Job Opportunities
    
    upcoming_events.rst
    job_opportunities.rst
-   
+.. recent_publications.rst   
 
 .. toctree::
    :maxdepth: 2
