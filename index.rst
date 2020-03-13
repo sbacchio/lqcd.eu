@@ -5,7 +5,7 @@ Homepage
 The European Lattice Field Theory Community
 -------------------------------------------
 
-:ref:`EuroLat <EuroLat>` is an association of the  European Lattice Field Theory Community.
+This webpage is supported by :ref:`EuroLat <EuroLat>`,  an association of the European Lattice Field Theory Community.
 It includes Euro based :ref:`collaborations <Collaborations>` engaged in cutting-edge research in Lattice Field Theory
 composed by a large number of researchers from :ref:`institutions <Institutions>` all around Europe.
 
@@ -21,9 +21,16 @@ The objectives of the association are:
 Highlights
 ----------
 
-Upcoming events are:
+Events
+^^^^^^
 
 - :ref:`Lattice 2020 <Lattice2020>`, 3rd - 8th August 2020, Bonn, Germany
+
+
+Job Opportunities
+^^^^^^^^^^^^^^^^^
+
+
 
 .. toctree::
    :maxdepth: 2

@@ -2,8 +2,8 @@
 Past Events
 ===========
 
-2020
-----
+Events 2020
+-----------
 
 .. image:: http://www.maths.tcd.ie/~mjp/STRONG2020logo.png
    :width: 20 %
