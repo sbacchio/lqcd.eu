@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="20mm"
-   height="5mm"
-   viewBox="0 0 20 5"
+   width="26.111055mm"
+   height="12.48835mm"
+   viewBox="0 0 26.111056 12.48835"
    version="1.1"
    id="svg890"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="-22.759528"
-     inkscape:cy="22.234615"
+     inkscape:cx="-35.95981"
+     inkscape:cy="-8.2530959"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,52 +59,92 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-73.973639,-121.23507)">
-    <g
-       id="g1506"
-       transform="translate(0.02506279,-0.38669718)">
-      <text
-         id="text821"
-         y="125.9878"
-         x="73.804306"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           id="tspan823"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;stroke-width:0.26458332"
-           y="125.9878"
-           x="73.804306"
-           sodipodi:role="line"><tspan
-             id="tspan831"
-             style="font-size:5.64444447px;fill:#000080;stroke-width:0.26458332">E</tspan><tspan
-             id="tspan833"
-             style="fill:#000080;stroke-width:0.26458332">URO</tspan><tspan
-             id="tspan825"
-             style="font-size:5.64444447px;fill:#800000;stroke-width:0.26458332">L</tspan><tspan
-             id="tspan835"
-             style="fill:#800000;stroke-width:0.26458332" /></tspan></text>
-      <text
-         id="text821-2"
-         y="125.99518"
-         x="88.166786"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           id="tspan823-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;stroke-width:0.26458332"
-           y="125.99518"
-           x="88.166786"
-           sodipodi:role="line"><tspan
-             id="tspan835-8"
-             style="fill:#800000;stroke-width:0.26458332">AT</tspan></tspan></text>
-    </g>
+     transform="translate(-70.91811,-111.02557)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot1489"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion1491"><rect
            id="rect1493"
            width="141.92644"
            height="60.104076"
            x="-7.0710678"
            y="-12.164553" /></flowRegion><flowPara
-         id="flowPara1495"></flowPara></flowRoot>  </g>
+         id="flowPara1495" /></flowRoot>    <g
+       id="g1506-3"
+       transform="translate(18.178289,-6.7734089)">
+      <text
+         id="text821-6"
+         y="121.77831"
+         x="53.75909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan823-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;fill:#800000;stroke-width:0.26458332"
+           y="121.77831"
+           x="53.75909"
+           sodipodi:role="line"><tspan
+   style="fill:#2b0000"
+   id="tspan871">L</tspan>Q<tspan
+   style="fill:#008000"
+   id="tspan873">C</tspan><tspan
+   style="fill:#000080"
+   id="tspan875">D</tspan><tspan
+   style="fill:#2b0000"
+   id="tspan877">.</tspan><tspan
+   style="font-size:3.52777767px;fill:#2b0000"
+   id="tspan868">EU</tspan></tspan></text>
+    </g>
+    <g
+       id="g903"
+       transform="translate(22.94147)">
+      <g
+         transform="translate(-21.423317,-5.1307313)"
+         id="g1506">
+        <g
+           transform="translate(1.5875,1.0583333)"
+           id="g890">
+          <text
+             id="text821"
+             y="125.9878"
+             x="73.804306"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan823"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;stroke-width:0.26458332"
+               y="125.9878"
+               x="73.804306"
+               sodipodi:role="line"><tspan
+                 id="tspan831"
+                 style="font-size:5.64444447px;fill:#000080;stroke-width:0.26458332">E</tspan><tspan
+                 id="tspan833"
+                 style="fill:#000080;stroke-width:0.26458332">URO</tspan><tspan
+                 id="tspan825"
+                 style="font-size:5.64444447px;fill:#800000;stroke-width:0.26458332">L</tspan></tspan></text>
+          <text
+             id="text821-2"
+             y="125.99518"
+             x="88.166786"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan823-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;fill:#800000;stroke-width:0.26458332"
+               y="125.99518"
+               x="88.166786"
+               sodipodi:role="line">AT</tspan></text>
+        </g>
+      </g>
+      <text
+         id="text881"
+         y="121.17752"
+         x="47.986881"
+         style="font-style:normal;font-weight:normal;font-size:7.16906834px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53768009"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Karumbi;-inkscape-font-specification:Karumbi;stroke-width:0.53768009"
+           y="121.17752"
+           x="47.986881"
+           id="tspan879"
+           sodipodi:role="line">by</tspan></text>
+    </g>
+  </g>
 </svg>
