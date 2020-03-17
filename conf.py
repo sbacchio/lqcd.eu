@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'EuroLat'
+project = 'LQCD.eu'
 copyright = '2020, Simone Bacchio'
 author = 'Simone Bacchio'
 

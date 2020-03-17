@@ -75,7 +75,7 @@ The following elements are the content of the website:
 DIY
 ^^^
 
-All the source code of the website is available on **GitHub** at https://github.com/sbacchio/eurolat.
+All the source code of the website is available on **GitHub** at https://github.com/sbacchio/lqcd.eu.
 It is made of several .rst text files representing each page of the website.
 For more information on the .rst file format, please look at this
 `guide <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_.
