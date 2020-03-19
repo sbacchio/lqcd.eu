@@ -30,29 +30,29 @@ The following elements are the content of the website:
 - **Homepage:** the content of the homepage is decided by the EuroLat :ref:`Ad hoc Commitee`.
 
 - **Institutions:** any European institution engaged in research in Lattice Field Theory can be added
-  to the list of :ref:`Institutions`. You can either contact the :ref:`Web-manager` or
+  to the list of :ref:`Institutions`. You can either complete this `form <https://docs.google.com/forms/d/e/1FAIpQLSewa7fimzLeaXI0ds0im74AkaTS6TNYSBs9W7qLz32uaYqYlw/viewform>`_, contact the :ref:`Web-manager` or
   :ref:`DIY`. For completeness sake, we need a logo of the institution, a contact person and
-  a website of the group. **NOTE:** the intitutions are sorted on a nation base and then in alphabetic
+  a website of the group. The intitutions are sorted on a nation base and then in alphabetic
   order.
   
 - **Collaborations:** any Euro-based collaboration, i.e. with most of the members working in European
-  institutions, can be added to the list of :ref:`Collaborations`. You can either
+  institutions, can be added to the list of :ref:`Collaborations`. You can either complete this `form <https://docs.google.com/forms/d/1Fq5kP24L1Z8FOuOAym5QePac9fMfeCVebG6TXodA7Yw/viewform>`_,
   contact the :ref:`Web-manager` or :ref:`DIY`. For completeness sake, we need a logo of
   the collaboration, the spokeman of the collaboration, the website of the collaboration and a short
-  description of the purpose of the collaboration. **NOTE:** the collaborations are sorted in alphabetic
-  order
+  description of the purpose of the collaboration. The collaborations are sorted in alphabetic
+  order.
 
 - **Events:** any event taking place in Europe open to the European Lattice Field Theory community
-  can be added to the list of :ref:`Upcoming Events`. You can either
+  can be added to the list of :ref:`Upcoming Events`. You can either complete this `form <https://docs.google.com/forms/d/15Pn_O6kPb-uxnjWV_LYq1MfsK3T6JZMDqufS1x3KBAw/viewform>`_,
   contact the :ref:`Web-manager` or :ref:`DIY`. For completeness sake, we need a logo of
-  the event, place and date and a webpage of the event. **NOTE:** the events are sorted in chronological
+  the event, place and date and a webpage of the event. The events are sorted in chronological
   order and once the event is passed, will be moved to the list of :ref:`Past Events`.
 
-- **Job Opportunities:** any open position for Lattice Field Theory researchers can be added to the list
-  of :ref:`Job Opportunities <Job Opportunities>`. You can either contact the :ref:`Web-manager` or
+- **Job Opportunities:** any open position in Europe for Lattice Field Theory researchers can be added to the list
+  of :ref:`Job Opportunities <Job Opportunities>`. You can either complete this `form <https://docs.google.com/forms/d/1DvUdgoFJI02AGixsOPFjJs7mjjcz2bGo7wmx1gcf4Ng/viewform>`_, contact the :ref:`Web-manager` or
   :ref:`DIY`. For completeness sake, we need the rank of the position, the institution, a deadline
   of the call, a link to the official call and if necessary a very short description of the position.
-  **NOTE:** the positions are sorted on a rank base (e.g. from professorship to PhD fellowship), then
+  The positions are sorted on a rank base (e.g. from professorship to PhD fellowship), then
   on a nation base and then in chronological order accordingly to the deadline. The Job position will
   be removed once the deadline is passed or if the submitter asks to remove it.
 
@@ -66,7 +66,7 @@ The following elements are the content of the website:
   researchers in their activities and meant for public usage can be added to the list of :ref:`Software`.
   You can either contact the :ref:`Web-manager` or :ref:`DIY`. For completeness sake, we need a logo of
   the software, the license, a short (usage) and a longer description and a link to the source-code of
-  the software. **NOTE:** the collaborations are sorted in alphabetic order.
+  the software. The collaborations are sorted in alphabetic order.
 
 - **Computing Facilities:** any computing facility providing computer time for research in
   Lattice Field Theory to the European community can be added to the list of :ref:`Computing Facilities`. You can either contact the :ref:`Web-manager` or :ref:`DIY`.
