@@ -5,6 +5,13 @@ Institutions
 In this page we list the European Institutions doing research
 in Lattice Field Theories.
 
+.. image:: _static/form.svg
+  :width: 25
+  :alt: Institution form
+  :align: left
+  :target: https://docs.google.com/forms/d/e/1FAIpQLSewa7fimzLeaXI0ds0im74AkaTS6TNYSBs9W7qLz32uaYqYlw/viewform
+
+*Your institution is not listed hereafter? Please complete this* `form <https://docs.google.com/forms/d/e/1FAIpQLSewa7fimzLeaXI0ds0im74AkaTS6TNYSBs9W7qLz32uaYqYlw/viewform>`_ *for adding it.*
 
 Cyprus
 ------

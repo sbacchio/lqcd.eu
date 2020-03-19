@@ -14,6 +14,14 @@ Extreme Computing (EurPLEx), and participate in a number of EU projects, includi
 under the European Integrating Activity for Advanced Community initiative.
 
 
+.. image:: _static/form.svg
+  :width: 25
+  :alt: Collaboration form
+  :align: left
+  :target: https://docs.google.com/forms/d/1Fq5kP24L1Z8FOuOAym5QePac9fMfeCVebG6TXodA7Yw/viewform
+
+*Your collaboration is not listed hereafter? Please complete this* `form <https://docs.google.com/forms/d/1Fq5kP24L1Z8FOuOAym5QePac9fMfeCVebG6TXodA7Yw/viewform>`_ *for adding it.*
+
 
 .. image:: https://www-zeuthen.desy.de/alpha/alpha_color_60.gif
    :width: 20 %
@@ -26,7 +34,7 @@ ALPHA
 -----
 
 | **Website**: https://www-zeuthen.desy.de/alpha/
-| **Spokeman**: `Dr. Rainer Sommer <https://nic.desy.de/members/index_eng.html>`_
+| **Spokesman**: `Dr. Rainer Sommer <https://nic.desy.de/members/index_eng.html>`_
 | **Institutions**:  :ref:`DESY <DESY>`, `others <https://www-zeuthen.desy.de/alpha/people.html>`_
   
 The ALPHA collaboration is a consortium of theoretical physicists interested in lattice QCD
@@ -48,7 +56,7 @@ BMW
 **Budapest-Marseille-Wuppertal Collaboration**
 
 | **Website**: http://www.bmw.uni-wuppertal.de
-| **Spokeman**: `Prof. Zoltan Fodor <http://particle.uni-wuppertal.de/fodor/>`_
+| **Spokesman**: `Prof. Zoltan Fodor <http://particle.uni-wuppertal.de/fodor/>`_
 | **Institutions**:  University of Wuppertal, Eötvös University, :ref:`DESY <DESY>`
 |
 
@@ -67,7 +75,7 @@ CLS
 **Coordinated Lattice Simulations**
 
 | **Website**: https://twiki.cern.ch/twiki/bin/view/CLS/WebIntro
-| **Spokeman**: Ulli Wolff
+| **Spokesman**: Ulli Wolff
 | **Institutions**:  Berlin, CERN, :ref:`DESY <DESY>`, `others <https://twiki.cern.ch/twiki/bin/view/CLS/WebIntro>`_
 
 The CLS is a community effort, launched in 2007, whose aim is to bring together the human and computer resources of several teams in Europe interested in lattice QCD.
@@ -87,7 +95,7 @@ ETMC
 **Extended Twisted Mass Collaboration**
 
 | **Website**: https://www-zeuthen.desy.de/~kjansen/etmc/
-| **Spokeman**: `Dr. K. Jansen <https://www-zeuthen.desy.de/~kjansen/>`_
+| **Spokesman**: `Dr. K. Jansen <https://www-zeuthen.desy.de/~kjansen/>`_
 | **Institutions**:  :ref:`DESY <DESY>`, :ref:`The Cyprus Institute <The Cyprus Institute>`, :ref:`University of Bonn <University of Bonn>`, :ref:`University of Cyprus <University of Cyprus>`,
   
 The Extended Twisted Mass collaboration
