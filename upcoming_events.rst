@@ -2,6 +2,17 @@
 Upcoming Events
 ===============
 
+In this page we list the upcoming events in Europe open to the Lattice Field Theory community.
+The events are sorted by date with the sooner coming first.
+
+.. image:: _static/form.svg
+  :width: 25
+  :alt: Event form
+  :align: left
+  :target: https://docs.google.com/forms/d/15Pn_O6kPb-uxnjWV_LYq1MfsK3T6JZMDqufS1x3KBAw/viewform
+
+*Your event is not listed hereafter? Please complete this* `form <https://docs.google.com/forms/d/15Pn_O6kPb-uxnjWV_LYq1MfsK3T6JZMDqufS1x3KBAw/viewform>`_ *for adding it.*
+
 
 .. image:: https://indico.hiskp.uni-bonn.de/event/1/logo-3980671671.png
    :width: 20 %
