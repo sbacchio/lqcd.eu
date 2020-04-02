@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-6.0567916"
+     inkscape:cx="-21.949649"
      inkscape:cy="-4.2891931"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1564"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,14 +70,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan823"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;stroke-width:0.26458332;fill:#084b6b;fill-opacity:1"
            y="95.8377"
            x="32.940968"
-           sodipodi:role="line"><tspan
-             id="tspan837"
-             style="fill:#000080">E</tspan><tspan
-             id="tspan839"
-             style="fill:#800000" /></tspan></text>
+           sodipodi:role="line">E</tspan></text>
       <text
          id="text821-4"
          y="95.822701"
@@ -85,12 +81,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan823-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;stroke-width:0.26458332;fill:#782121;fill-opacity:1"
            y="95.822701"
            x="34.385914"
-           sodipodi:role="line"><tspan
-             id="tspan839-4"
-             style="fill:#800000;stroke-width:0.26458332">L</tspan></tspan></text>
+           sodipodi:role="line">L</tspan></text>
     </g>
   </g>
 </svg>

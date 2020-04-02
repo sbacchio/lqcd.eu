@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="26.111055mm"
-   height="12.48835mm"
-   viewBox="0 0 26.111056 12.48835"
+   width="66.558899mm"
+   height="30.018314mm"
+   viewBox="0 0 66.558901 30.018315"
    version="1.1"
    id="svg890"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="10.759745"
-     inkscape:cy="-11.283554"
+     inkscape:zoom="2.8"
+     inkscape:cx="51.387043"
+     inkscape:cy="109.36912"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,9 +39,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata887">
@@ -59,7 +59,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-70.91811,-111.02557)">
+     transform="translate(-71.006475,-111.02557)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot1489"
@@ -72,32 +72,10 @@
            y="-12.164553" /></flowRegion><flowPara
          id="flowPara1495" /></flowRoot>    <g
        id="g1506-3"
-       transform="translate(19.168336,-6.7734089)">
-      <text
-         id="text821-6"
-         y="121.77831"
-         x="53.75909"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           id="tspan823-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;fill:#800000;stroke-width:0.26458332"
-           y="121.77831"
-           x="53.75909"
-           sodipodi:role="line"><tspan
-   style="fill:#2b0000"
-   id="tspan871">L</tspan>Q<tspan
-   style="fill:#008000"
-   id="tspan873">C</tspan><tspan
-   style="fill:#000080"
-   id="tspan875">D</tspan><tspan
-   style="fill:#2b0000"
-   id="tspan877">.</tspan><tspan
-   style="font-size:3.52777767px;fill:#2b0000"
-   id="tspan868">EU</tspan></tspan></text>
-    </g>
+       transform="translate(19.168336,-6.7734089)" />
     <g
        id="g903"
-       transform="translate(22.94147)">
+       transform="matrix(2.6051999,0,0,2.6051999,-55.447886,-178.21823)">
       <g
          transform="translate(-21.423317,-5.1307313)"
          id="g1506">
@@ -116,11 +94,11 @@
                x="73.804306"
                sodipodi:role="line"><tspan
                  id="tspan831"
-                 style="font-size:5.64444447px;fill:#000080;stroke-width:0.26458332">E</tspan><tspan
+                 style="font-size:5.64444447px;fill:#084b6b;fill-opacity:1;stroke-width:0.26458332">E</tspan><tspan
                  id="tspan833"
-                 style="fill:#000080;stroke-width:0.26458332">URO</tspan><tspan
+                 style="fill:#084b6b;fill-opacity:1;stroke-width:0.26458332">URO</tspan><tspan
                  id="tspan825"
-                 style="font-size:5.64444447px;fill:#800000;stroke-width:0.26458332">L</tspan></tspan></text>
+                 style="font-size:5.64444447px;fill:#782121;stroke-width:0.26458332">L</tspan></tspan></text>
           <text
              id="text821-2"
              y="125.99518"
@@ -128,7 +106,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
              xml:space="preserve"><tspan
                id="tspan823-0"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;fill:#800000;stroke-width:0.26458332"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;fill:#782121;stroke-width:0.26458332"
                y="125.99518"
                x="88.166786"
                sodipodi:role="line">AT</tspan></text>
@@ -136,15 +114,56 @@
       </g>
       <text
          id="text881"
-         y="121.17752"
-         x="47.986881"
-         style="font-style:normal;font-weight:normal;font-size:7.16906834px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53768009"
+         y="120.21163"
+         x="48.549458"
+         style="font-style:normal;font-weight:normal;font-size:7.16906834px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3e4349;fill-opacity:1;stroke:none;stroke-width:0.53768009;"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Karumbi;-inkscape-font-specification:Karumbi;stroke-width:0.53768009"
-           y="121.17752"
-           x="47.986881"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Karumbi;-inkscape-font-specification:Karumbi;fill:#3e4349;fill-opacity:1;stroke-width:0.53768009;"
+           y="120.21163"
+           x="48.549458"
            id="tspan879"
            sodipodi:role="line">by</tspan></text>
+    </g>
+    <g
+       id="g877">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.19056606px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.68929243"
+         x="85.06292"
+         y="121.39253"
+         id="text821-6"><tspan
+           sodipodi:role="line"
+           x="85.06292"
+           y="121.39253"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.70490551px;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;fill:#800000;stroke-width:0.68929243"
+           id="tspan823-7"><tspan
+             id="tspan836"
+             style="fill:#782121;fill-opacity:0.94117647;stroke-width:0.68929243">Q</tspan><tspan
+             id="tspan873"
+             style="fill:#4b6b08;fill-opacity:1;stroke-width:0.68929243">C</tspan><tspan
+             id="tspan875"
+             style="fill:#084b6b;fill-opacity:1;stroke-width:0.68929243">D<tspan
+   style="fill:#3e4349;fill-opacity:1"
+   id="tspan880"> </tspan></tspan><tspan
+             id="tspan868"
+             style="font-size:9.19056606px;fill:#3e4349;fill-opacity:1;stroke-width:0.68929243">EU</tspan></tspan></text>
+      <text
+         id="text856"
+         y="121.39253"
+         x="76.010948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.19056606px;line-height:1.25;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#3e434f;fill-opacity:0.94117647;stroke:none;stroke-width:0.68929243;"
+         xml:space="preserve"><tspan
+           id="tspan854"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.70490551px;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;fill:#3e4349;stroke-width:0.68929243;fill-opacity:1"
+           y="121.39253"
+           x="76.010948"
+           sodipodi:role="line">L</tspan></text>
+      <circle
+         r="0.83084363"
+         cy="120.72742"
+         cx="117.70234"
+         id="path842"
+         style="opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1.56312001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.89655161;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
     </g>
   </g>
 </svg>
