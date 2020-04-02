@@ -58,6 +58,10 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_css_files = [
+    '_static/custom.css',
+]
+
 html_favicon = '_static/icon.svg'
 
 html_sidebars = {
