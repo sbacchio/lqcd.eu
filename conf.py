@@ -32,7 +32,7 @@ release = '0.0.0'
 # ones.
 extensions = [
     'sphinx.ext.autosectionlabel',
-    'sphinxcontrib.bibtex',
+#    'sphinxcontrib.bibtex',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -46,6 +46,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
 
+master_doc = 'eurolat'
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
@@ -56,7 +58,7 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_favicon = '_static/icon.png'
+html_favicon = '_static/icon.svg'
 
 html_sidebars = {
     '**': [
@@ -68,9 +70,16 @@ html_sidebars = {
 }
 
 html_theme_options = {
-    'logo': 'logo.png',
+    'logo': 'logo.svg',
     'fixed_sidebar': False,
     'body_text_align': 'justify',
     'caption_font_size': '14px',
     'page_width': '960px',
+    'sidebar_hr': '#004B6B',
+    'sidebar_header': '#004B6B',
+    'sidebar_list': '#004B6B',
+    'sidebar_text': '#004B6B',
+#    'gray_1': '#008800',
+    'gray_2': '#008800',
+    'gray_3': '#008800',
 }
