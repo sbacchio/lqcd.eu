@@ -6,6 +6,10 @@ div.sphinxsidebar span.caption-text {
     font-weight: normal;
 }
 
+div.sphinxsidebar span.caption {
+    margin: 15px 0 0 0;    
+}
+
 div.sphinxsidebar input {
     border-radius: 5px;
     box-sizing: border-box;
@@ -13,18 +17,27 @@ div.sphinxsidebar input {
     width: 100%;
 }
 
+div.sphinxsidebar h3 {
+    margin: 20px 0;
+}
+
+div.sphinxsidebar .badge {
+    border-bottom: 2px dotted #999;
+}
+
 div.body p.caption {
     text-align: justify;
 }
 
 img.logo-before-title {
-    margin: 30px 20px 30px 20px;
+    margin: 20px 20px 30px 20px;
+    border-radius: 10px;
 }
 
 div.document {
     margin: 20px auto 0 auto;
     padding: 30px 30px 30px 10px;
-    background-color: #ccc;
+    background-color: #bbb;
     border-radius: 15px;
 }
 
@@ -32,6 +45,7 @@ div.body {
     margin: 0 0 0 10px;
     padding: 30px;
     border-radius: 15px;
+    background-color: #fff;
 }
 
 body {
