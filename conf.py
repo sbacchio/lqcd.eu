@@ -59,7 +59,7 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 html_css_files = [
-    '_static/custom.css',
+    'custom.css',
 ]
 
 html_favicon = '_static/icon.svg'
