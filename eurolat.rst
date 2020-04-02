@@ -78,8 +78,8 @@ Ad hoc Committee
 Prof. Constantia Alexandrou
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| **Institutions:** :ref:`The Cyprus Institute <The Cyprus Institute>`, :ref:`University of Cyprus <University of Cyprus>`
-| **Collaboration:** :ref:`ETMC <ETMC>`
+| **Institutions:** :ref:`The Cyprus Institute`, :ref:`University of Cyprus`
+| **Collaboration:** :ref:`ETMC`
 | **Publications:** http://inspirehep.net/author/profile/C.Alexandrou.1
 
 Constantia Alexandrou received a BA degree in Physics from the University of Oxford in 1980
@@ -105,8 +105,8 @@ of 'Institute Professor'.
 Prof. Luigi Del Debbio
 ^^^^^^^^^^^^^^^^^^^^^^
 
-| **Institutions:** :ref:`University of Edimburgh <University of Edimburgh>`
-| **Collaboration:** UKQCD
+| **Institutions:** :ref:`University of Edimburgh`
+| **Collaboration:** :ref:`UKQCD`
 | **Publications:** http://inspirehep.net/author/profile/L.Del.Debbio.1
 
 Prof Del Debbio's research interests are in Quantum Field Theory. His main focus is on nonperturbative aspects of field theories, and their application to particle physics. Using both analytical and numerical methods he has worked on several aspects of Quantum Chromodynamics, low-dimensional fermionic models, and models of electroweak symmetry breaking. His numerical work relies on Monte Carlo methods, currently implemented on the latest platforms for High Performance Computing (IBM BlueGene, and GPU systems).
@@ -122,14 +122,14 @@ Prof Del Debbio's research interests are in Quantum Field Theory. His main focus
 Prof. Frithjof Karsch
 ^^^^^^^^^^^^^^^^^^^^^
 
-| **Institutions:** :ref:`University of Bielefeld <University of Bielefeld>`
-| **Collaboration:** HotQCD
+| **Institutions:** :ref:`University of Bielefeld`
+| **Collaboration:** :ref:`HotQCD`
 | **Publications:** http://inspirehep.net/author/profile/F.Karsch.1
 |
-| **TODO:** add short bio
+|
 |
 
-.. image:: https://tcdlocalportal.tcd.ie/pls/public/websites.staff.display_image?p_no=427062C8652A5D5F0EAB71E9F4F7E3D8
+.. image:: _static/ryan.jpg
    :width: 15 %
    :alt: S. Ryan
    :align: left
@@ -139,11 +139,11 @@ Prof. Frithjof Karsch
 Prof. Sinéad Ryan
 ^^^^^^^^^^^^^^^^^
 
-| **Institutions:** :ref:`Trinity College <Trinity College>`
-| **Collaboration:** FASTSUM
+| **Institutions:** :ref:`Trinity College`
+| **Collaboration:** :ref:`FASTSUM`
 | **Publications:** http://inspirehep.net/author/profile/S.M.Ryan.1
 |
-| **TODO:** add short bio
+|
 |
 
 
@@ -157,10 +157,27 @@ Prof. Sinéad Ryan
 Prof. Hartmut Wittig
 ^^^^^^^^^^^^^^^^^^^^
 
-| **Institutions:** :ref:`University of Mainz <University of Mainz>`
-| **Collaboration:** CLS
+| **Institutions:** :ref:`University of Mainz`
+| **Collaboration:** :ref:`CLS`
 | **Publications:** http://inspirehep.net/author/profile/H.Wittig.1
 |
-| **TODO:** add short bio
+|
 |
 
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: The community
+   
+   eurolat.rst
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: About
+   
+   faqs.rst
+   contacts.rst
+   rules.rst
+   
