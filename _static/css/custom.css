@@ -61,5 +61,5 @@ div.body {
 }
 
 body {
-    background-color: #0e3142;
+    background: url(../noise.svg) top left repeat #0e3142;
 }
