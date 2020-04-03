@@ -5,21 +5,17 @@ Community rules
 Content of the website
 ----------------------
 
-In this website we collect information about the European Lattice Field Theory community (ELFTc).
-This website is managed by the EuroLat association and the latter is an association open to
-any Euro-based institution or collaboration. If you are not a member and you wish
-to become one, please read :ref:`How to become a member of EuroLat <How to become a member of EuroLat>`.
+This website is managed by :ref:`EuroLat`, an association of the European Lattice Field Theory Community.
+The website is meant to advertise events, research activities, results, projects, job opportunities, institution and collaborations of the European Lattice Field Theory Community. If you have any content of this kind you want to advertise on the
+website, please read :ref:`How to add content to the website`.
 
-The website is meant to advertise events, research, results, projects, job opportunities and any other
-remarkable activities of the ELFTc. If you have any content of this kind you want to advertise on the
-website, please read :ref:`How to add content to the website <How to add content to the website>`.
-
-The rules of the website are:
+Please note the following:
 
 - EuroLat makes **no warranties** regarding the content of the website for correctness or reliability.
   External links are always provided to clarify the source of the information and we apologize in
   advance for any mistake may be present in the website's content.
-- Institutions, collaborations and any other content are preferred to appear in **alphabetic** order.
-  Events, publications and job positions, instead, are preferred to appear in **chronological** order.
+- Eurolat asks to the members of the European Lattice Field Theory Community to provide content relevant for the website, as explained in ref:`How to add content to the website`. Any missing imfortation has not been omitted on purpose but it has just not been added yet. So please, go ahead and provide the missing details as eplained in the :ref:`FAQs`.
+- Institutions, collaborations and any other contents are preferred to appear in **alphabetic** order.
+  Events, publications and job opportunities, instead, are preferred to appear in **chronological** order.
   We do not apply any importance criteria on the content. 
 - The content of the homepage is decided at discretion of the :ref:`EuroLat Ad hoc Commitee <Ad hoc Committee>`.

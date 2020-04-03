@@ -34,7 +34,7 @@ ALPHA
 -----
 
 | **Website**: https://www-zeuthen.desy.de/alpha/
-| **Spokesman**: `Dr. Rainer Sommer <https://nic.desy.de/members/index_eng.html>`_
+| **Spokesperson**: `Dr. Rainer Sommer <https://nic.desy.de/members/index_eng.html>`_
 | **Institutions**:  :ref:`DESY <DESY>`, `others <https://www-zeuthen.desy.de/alpha/people.html>`_
   
 The ALPHA collaboration is a consortium of theoretical physicists interested in lattice QCD
@@ -56,7 +56,7 @@ BMW
 **Budapest-Marseille-Wuppertal Collaboration**
 
 | **Website**: http://www.bmw.uni-wuppertal.de
-| **Spokesman**: `Prof. Zoltan Fodor <http://particle.uni-wuppertal.de/fodor/>`_
+| **Spokesperson**: `Prof. Zoltan Fodor <http://particle.uni-wuppertal.de/fodor/>`_
 | **Institutions**:  University of Wuppertal, Eötvös University, :ref:`DESY <DESY>`
 |
 
@@ -75,7 +75,7 @@ CLS
 **Coordinated Lattice Simulations**
 
 | **Website**: https://twiki.cern.ch/twiki/bin/view/CLS/WebIntro
-| **Spokesman**: Ulli Wolff
+| **Spokesperson**: Ulli Wolff
 | **Institutions**:  Berlin, CERN, :ref:`DESY <DESY>`, `others <https://twiki.cern.ch/twiki/bin/view/CLS/WebIntro>`_
 
 The CLS is a community effort, launched in 2007, whose aim is to bring together the human and computer resources of several teams in Europe interested in lattice QCD.
@@ -95,7 +95,7 @@ ETMC
 **Extended Twisted Mass Collaboration**
 
 | **Website**: https://www-zeuthen.desy.de/~kjansen/etmc/
-| **Spokesman**: `Dr. K. Jansen <https://www-zeuthen.desy.de/~kjansen/>`_
+| **Spokesperson**: `Dr. K. Jansen <https://www-zeuthen.desy.de/~kjansen/>`_
 | **Institutions**:  :ref:`DESY <DESY>`, :ref:`The Cyprus Institute <The Cyprus Institute>`, :ref:`University of Bonn <University of Bonn>`, :ref:`University of Cyprus <University of Cyprus>`,
   
 The Extended Twisted Mass collaboration

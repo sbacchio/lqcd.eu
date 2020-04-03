@@ -4,30 +4,56 @@ FAQs
 
 List of FAQs:
 
-- :ref:`How to become a member of EuroLat <How to become a member of EuroLat>`
-- :ref:`How to add content to the website <How to add content to the website>`
+- :ref:`What is Eurolat`
+- :ref:`How to become a member of EuroLat`
+- :ref:`What is lqcd.eu`
+- :ref:`How to add content to the website`
 - :ref:`DIY: add content to the website <DIY>`
   
+What is Eurolat
+---------------
+:ref:`EuroLat` is an association of the European Lattice Field Theory Community.
+The Lattice Field Theory community in Europe is comprised of several collaborations, as well as smaller groups.
+Together they are part of an international research effort, and many of the larger collaborations have
+participating researchers from outside Europe. Major collaborations are :ref:`ALPHA`,
+:ref:`BMW`, :ref:`CLS`, :ref:`ETMC`, :ref:`HotQCD`, :ref:`QCDSF`, and :ref:`UKQCD`, each with its own simulation and analysis codes. The community has a long
+history in working together in coordinated, EU funded research programs. The first such program was the
+European Community Network "Computational Particle Physics" (1993-1997). Currently members of the
+Lattice QCD community coordinate the European Network for Particle Physics, Lattice Field Theory and
+Extreme Computing (EurPLEx), and participate in a number of EU projects, including `STRONG-2020 <http://www.strong-2020.eu/>`_ funded
+under the European Integrating Activity for Advanced Community initiative.
+
+Representatives of all the aforementioned collaborations and selected groups have been contacted and
+a consensus has been reached to establish a five-member working group to respond to the request for
+input by PRACE, consisting of :ref:`C. Alexandrou <Prof. Constantia Alexandrou>` (Cyprus),
+:ref:`L. Del Debbio <Prof. Luigi Del Debbio>` (UK), :ref:`F. Karsch <Prof. Frithjof Karsch>` (Germany),
+:ref:`S. Ryan <Prof. Sinéad Ryan>` (Ireland) and :ref:`H. Wittig <Prof. Hartmut Wittig>` (Germany).
 
 
 How to become a member of EuroLat
 ---------------------------------
 
-EuroLat is an association open to any Euro-based institution or collaboration.
-If you are the coordinator of a research group in a European **institution**, or you are the spokeman
-of a Euro-based **collaboration** (i.e. involving European institutions), please contact one of the members
-of the Ad-hoc commitee at these contacts to be added to the internal EuroLat decision board.
+EuroLat is an association open to any **researcher** in Lattice Field Theory working for an Euro-based institution or collaboration.
+If you belong to the above category and you want to join EuroLat, please complete this `form <https://docs.google.com/forms/d/e/1FAIpQLSd6mpUmYDChqECVvtBKgrT2_JOeBkP5DlBAVlhY_Ohdkv18ag/viewform>`_. We will also add you to our :ref:`Mailing List`.
 
-If instead you are a **researcher** in Lattice Field Theory interested in the activities of EuroLat, please
-join the :ref:`Mailing List <Mailing List>` to be updated on the news of the community.
+If you are the **coordinator** of a research group in a European institution, or you are the **spokeperson**
+of a Euro-based collaboration (i.e. involving European institutions), after compleating the above-mentioned form, please, send an email to eurolat@googlegroups.com to be added to the EuroLat board members.
+
+
+What is lqcd.eu
+---------------
+
+LQCD.eu is the webpage of the European Lattice Field theory community and it is supported by the EuroLat association. The complete website is currently under construction. For seeing the latest version please check https://eurolat.readthedocs.io/en/latest/.
+
+The website is meant to advertise events, research activities, results, projects and job opportunities
+of the European Lattice Field Theory community. If you have any content of this kind you want to advertise on the
+website, please read :ref:`How to add content to the website <How to add content to the website>`.
 
 
 How to add content to the website
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The following elements are the content of the website:
-
-- **Homepage:** the content of the homepage is decided by the EuroLat :ref:`Ad hoc Commitee`.
+The following components will be the content of the website:
 
 - **Institutions:** any European institution engaged in research in Lattice Field Theory can be added
   to the list of :ref:`Institutions`. You can either complete this `form <https://docs.google.com/forms/d/e/1FAIpQLSewa7fimzLeaXI0ds0im74AkaTS6TNYSBs9W7qLz32uaYqYlw/viewform>`_, contact the :ref:`Web-manager` or

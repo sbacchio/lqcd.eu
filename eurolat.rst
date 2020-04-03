@@ -2,6 +2,14 @@
 EuroLat
 =======
 
+The European Lattice Field Theory Community
+-------------------------------------------
+
+This webpage is supported by :ref:`EuroLat <The community>`,  an association of the European Lattice Field Theory Community.
+It gathers together researchers in Lattice Field Theory working for European :ref:`institutions <>` or Euro-based :ref:`collaborations <>`.
+If you want to become a member of Eurolat, please complete this `form <https://docs.google.com/forms/d/e/1FAIpQLSd6mpUmYDChqECVvtBKgrT2_JOeBkP5DlBAVlhY_Ohdkv18ag/viewform>`_.
+
+A more complete webpage is currently under contruction. Please check :ref:`How to add content to the website` for having your institution or collaboration listed in the upcoming website.
 
 Background
 ----------
@@ -58,11 +66,11 @@ Next steps and timeline
 -----------------------
 
 To ensure a wide participation in deciding on the way forward, the Ad hoc committee was charged
-with the preparation of a meeting at :ref:`Lattice 2020 <Lattice2020>`, which can be attended by scientists
-(postdoctoral level and higher) who are affiliated with a European institution.
+with the preparation of a meeting at :ref:`Lattice 2020 <Lattice2020>` (**canceled**), which could be attended by scientists
+(postdoctoral level and higher) who are affiliated with a European institution. Since the Lattice 2020 conference
+has been canceled, please subscribe to the :ref:`Mailing List` to be informed about the upcoming kick-off meeting.
 In addition to discussing whether the lattice community supports the concept of HPC Community Access,
 the purpose of the meeting is to set up an Executive Committee of EuroLat.
-Please subscribe to [MAILING LIST] if you would like to receive further information on EuroLat.
 
 
 Ad hoc Committee
@@ -81,18 +89,20 @@ Prof. Constantia Alexandrou
 | **Institutions:** :ref:`The Cyprus Institute`, :ref:`University of Cyprus`
 | **Collaboration:** :ref:`ETMC`
 | **Publications:** http://inspirehep.net/author/profile/C.Alexandrou.1
-
-Constantia Alexandrou received a BA degree in Physics from the University of Oxford in 1980
-and a PhD in Theoretical Nuclear Physics from the Massachusetts Institute of Technology, USA in 1985.
-She held research positions at the Paul Scherer Institute, Switzerland and at Erlangen University,
-Germany. Prof. Alexandrou is Professor at the Physics Department of the University of Cyprus,
-where she leads the Lattice Quantum Chromodynamics (QCD) Computational Lab. She is coordinator
-of several research programs, has numerous scientific publications and invited talks at international
-meetings and has organized several workshops in Cyprus and abroad. She is the representative of Cyprus
-at IUPAP and PRACE. For The Cyprus Institute, she served as Vice-Chair of the Interim Governing Board
-(IGB) and as Chair of the IGB of the Computational-based Science and Technology Research Center
-(CaSToRC). In July 2010, the Board of the Institute bestowed Alexandrou with the title
-of 'Institute Professor'.
+|
+|
+.. 
+   Constantia Alexandrou received a BA degree in Physics from the University of Oxford in 1980
+   and a PhD in Theoretical Nuclear Physics from the Massachusetts Institute of Technology, USA in 1985.
+   She held research positions at the Paul Scherer Institute, Switzerland and at Erlangen University,
+   Germany. Prof. Alexandrou is Professor at the Physics Department of the University of Cyprus,
+   where she leads the Lattice Quantum Chromodynamics (QCD) Computational Lab. She is coordinator
+   of several research programs, has numerous scientific publications and invited talks at international
+   meetings and has organized several workshops in Cyprus and abroad. She is the representative of Cyprus
+   at IUPAP and PRACE. For The Cyprus Institute, she served as Vice-Chair of the Interim Governing Board
+   (IGB) and as Chair of the IGB of the Computational-based Science and Technology Research Center
+   (CaSToRC). In July 2010, the Board of the Institute bestowed Alexandrou with the title
+   of 'Institute Professor'.
 
 
 .. image:: https://static.ph.ed.ac.uk/photos/people/ldeldebb.jpg
@@ -108,8 +118,10 @@ Prof. Luigi Del Debbio
 | **Institutions:** :ref:`University of Edimburgh`
 | **Collaboration:** :ref:`UKQCD`
 | **Publications:** http://inspirehep.net/author/profile/L.Del.Debbio.1
-
-Prof Del Debbio's research interests are in Quantum Field Theory. His main focus is on nonperturbative aspects of field theories, and their application to particle physics. Using both analytical and numerical methods he has worked on several aspects of Quantum Chromodynamics, low-dimensional fermionic models, and models of electroweak symmetry breaking. His numerical work relies on Monte Carlo methods, currently implemented on the latest platforms for High Performance Computing (IBM BlueGene, and GPU systems).
+|
+|
+|
+.. Prof Del Debbio's research interests are in Quantum Field Theory. His main focus is on nonperturbative aspects of field theories, and their application to particle physics. Using both analytical and numerical methods he has worked on several aspects of Quantum Chromodynamics, low-dimensional fermionic models, and models of electroweak symmetry breaking. His numerical work relies on Monte Carlo methods, currently implemented on the latest platforms for High Performance Computing (IBM BlueGene, and GPU systems).
 
 
 .. image:: https://www2.physik.uni-bielefeld.de/fileadmin/user_upload/theory_e6/Images/Persons/Karsch-2015.JPG

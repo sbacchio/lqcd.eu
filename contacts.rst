@@ -5,25 +5,19 @@ Contacts
 Mailing List
 ^^^^^^^^^^^^
 
-We have a mailing list of the members of EuroLat.
+We have setup a mailing list for the members of EuroLat. For joining it, please complete this `form <https://docs.google.com/forms/d/e/1FAIpQLSd6mpUmYDChqECVvtBKgrT2_JOeBkP5DlBAVlhY_Ohdkv18ag/viewform>`_.
 
 For sending a message to this mailing list, plese send an email to lqcdeu@googlegroups.com.
-
 Note the mailing list is subject to moderation, i.e. it may take some time before the message
-is approved or the message may be rejected. You will be informed in case of rejection.
-In case of long delays, please contact the :ref:`Web-manager`.
+is approved or rejected. You will be informed in case of rejection.
 
 EuroLat's Contacts
 ^^^^^^^^^^^^^^^^^^
 
-For getting in contact with the EuroLat :ref:`Ad hoc Committee`, plese send an email to eurolat@googlegroups.com.
-
-Note the mailing list is subject to moderation, i.e. it may take some time before the message
-is approved or the message may be rejected. You will be informed in case of rejection.
-In case of long delays, please contact the :ref:`Web-manager`.
+For getting in contact with the EuroLat board members and :ref:`Ad hoc Committee`, please send an email to eurolat@googlegroups.com.
 
 
 Web-manager
 ^^^^^^^^^^^
 
-For getting in contact with `lqcd.eu <http://lqcd.eu>`_ web-menager, plese send an email to s.bacchio@gmail.com.
+For getting in contact with web-menager of  `lqcd.eu <http://lqcd.eu>`_, plese send an email to s.bacchio@gmail.com.
