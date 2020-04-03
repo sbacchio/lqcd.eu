@@ -22,7 +22,7 @@ copyright = '2020, Simone Bacchio'
 author = 'Simone Bacchio'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.0'
+release = '0.0.2'
 
 
 # -- General configuration ---------------------------------------------------
@@ -59,11 +59,10 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 html_css_files = [
-    'custom2.css',
+    'css/custom.css?v=%s'%release,
 ]
 
 exclude_patterns = [
-    'index',
     '__*',
 ]
 
