@@ -107,7 +107,7 @@ Prof. Luigi Del Debbio
 ^^^^^^^^^^^^^^^^^^^^^^
 
 | **Institutions:** :ref:`University of Edimburgh`
-| **Collaboration:** :ref:`UKQCD`
+| **Collaboration:**  :ref:`RBC`, :ref:`UKQCD`
 | **Publications:** http://inspirehep.net/author/profile/L.Del.Debbio.1
 |
 |
