@@ -2,15 +2,6 @@
 EuroLat
 =======
 
-The European Lattice Field Theory Community
--------------------------------------------
-
-This webpage is supported by :ref:`EuroLat <The community>`,  an association of the European Lattice Field Theory Community.
-It gathers together researchers in Lattice Field Theory working for European :ref:`institutions <>` or Euro-based :ref:`collaborations <>`.
-If you want to become a member of Eurolat, please complete this `form <https://docs.google.com/forms/d/e/1FAIpQLSd6mpUmYDChqECVvtBKgrT2_JOeBkP5DlBAVlhY_Ohdkv18ag/viewform>`_.
-
-A more complete webpage is currently under contruction. Please check :ref:`How to add content to the website` for having your institution or collaboration listed in the upcoming website.
-
 Background
 ----------
 
@@ -66,11 +57,11 @@ Next steps and timeline
 -----------------------
 
 To ensure a wide participation in deciding on the way forward, the Ad hoc committee was charged
-with the preparation of a meeting at :ref:`Lattice 2020 <Lattice2020>` (**canceled**), which could be attended by scientists
-(postdoctoral level and higher) who are affiliated with a European institution. Since the Lattice 2020 conference
-has been canceled, please subscribe to the :ref:`Mailing List` to be informed about the upcoming kick-off meeting.
-In addition to discussing whether the lattice community supports the concept of HPC Community Access,
-the purpose of the meeting is to set up an Executive Committee of EuroLat.
+with the preparation of a meeting at :ref:`Lattice 2020 <Lattice2020>` (**canceled**). Since the Lattice 2020 conference
+has been canceled, please subscribe to the :ref:`Mailing List` to be informed about the upcoming meeting for the creation
+of EuroLat, which should be attended by scientists (postdoctoral level and higher) who are affiliated with a European institution.
+During the meeting various issues related to the creation of the EuroLat association will be discussed as well as
+an Executive Committee of EuroLat will be set up.
 
 
 Ad hoc Committee
@@ -175,21 +166,3 @@ Prof. Hartmut Wittig
 |
 |
 |
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: The community
-   
-   eurolat.rst
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: About
-   
-   faqs.rst
-   contacts.rst
-   rules.rst
-   

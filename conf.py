@@ -46,7 +46,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
 
-master_doc = 'eurolat'
+master_doc = 'index'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
@@ -71,7 +71,7 @@ html_favicon = '_static/icon.svg'
 html_sidebars = {
     '**': [
         'about.html',
-        'googlegroups.html',
+#        'googlegroups.html',
         'searchbox.html',
         'navigation.html',
     ]
@@ -82,7 +82,7 @@ html_theme_options = {
     'fixed_sidebar': False,
     'body_text_align': 'justify',
     'caption_font_size': '14px',
-    'page_width': '960px',
+    'page_width': '950px',
     'sidebar_hr': '#004B6B',
     'sidebar_header': '#004B6B',
     'sidebar_list': '#004B6B',
