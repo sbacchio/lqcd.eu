@@ -20,4 +20,4 @@ For getting in contact with the EuroLat board members and :ref:`Ad hoc Committee
 Web-manager
 ^^^^^^^^^^^
 
-For getting in contact with web-menager of  `lqcd.eu <http://lqcd.eu>`_, plese send an email to s.bacchio@gmail.com.
+For getting in contact with web-menager, please send an email to s.bacchio@gmail.com.
