@@ -62,6 +62,11 @@ html_css_files = [
     'custom2.css',
 ]
 
+exclude_patterns = [
+    'index',
+    '__*',
+]
+
 html_favicon = '_static/icon.svg'
 
 html_sidebars = {
