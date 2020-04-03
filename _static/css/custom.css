@@ -63,3 +63,11 @@ div.body {
 body {
     background: url(../noise.svg) top left repeat #0e3142;
 }
+
+#institutions {
+    background: url(../temporary.svg) top left repeat;
+}
+
+#collaborations {
+    background: url(../temporary.svg) top left repeat;
+}

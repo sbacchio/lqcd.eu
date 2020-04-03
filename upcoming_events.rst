@@ -27,7 +27,7 @@ Lattice2020
 **The 38th International Symposium on Lattice Field Theory**
 
 | **Where:** Bonn, Germany
-| **When:** 3rd - 8th August 2020
+| **When:** 3rd - 8th August 2020 (**CANCELED**)
 | **Website:** https://indico.hiskp.uni-bonn.de/event/1/
 	   
 The International Symposium on Lattice Field Theory is an annual conference that attracts scientists
