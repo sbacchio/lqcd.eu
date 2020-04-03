@@ -1,9 +1,13 @@
 @import url("default.css");
 div.sphinxsidebar span.caption-text {
     font-family: Georgia, serif;
-    color: #444;
+    color: #ccc;
     font-size: 24px;
-    font-weight: normal;
+    font-weight: bold;
+}
+
+div.sphinxsidebar ul {
+    color: #ccc;
 }
 
 div.sphinxsidebar span.caption {
@@ -17,12 +21,20 @@ div.sphinxsidebar input {
     width: 100%;
 }
 
+div.sphinxsidebar a {
+    border-bottom: 1px dashed #aaa;
+    color: #eee;
+}
+
 div.sphinxsidebar h3 {
     margin: 20px 0;
 }
 
 div.sphinxsidebar .badge {
-    border-bottom: 2px dotted #999;
+    font-family: Georgia, serif;
+    font-size: 24px;
+    border-bottom: 1px solid #aaa;
+    color: #eee;
 }
 
 div.body p.caption {
@@ -37,7 +49,7 @@ img.logo-before-title {
 div.document {
     margin: 20px auto 0 auto;
     padding: 30px 30px 30px 10px;
-    background-color: #bbb;
+    background-color: #fff2;
     border-radius: 15px;
 }
 
@@ -49,5 +61,5 @@ div.body {
 }
 
 body {
-    background-color: #084b6b;
+    background-color: #0e3142;
 }
