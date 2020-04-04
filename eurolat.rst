@@ -57,11 +57,11 @@ Next steps and timeline
 -----------------------
 
 To ensure a wide participation in deciding on the way forward, the Ad hoc committee was charged
-with the preparation of a meeting at :ref:`Lattice 2020 <Lattice2020>` (**canceled**). Since the Lattice 2020 conference
-has been canceled, please subscribe to the :ref:`Mailing List` to be informed about the upcoming meeting for the creation
-of EuroLat, which should be attended by scientists (postdoctoral level and higher) who are affiliated with a European institution.
-During the meeting various issues related to the creation of the EuroLat association will be discussed as well as
-an Executive Committee of EuroLat will be set up.
+with the preparation of a meeting at :ref:`Lattice 2020 <Lattice2020>`. Since the Lattice 2020
+conference has subsequently been canceled, please subscribe to the :ref:`Mailing List` to be informed
+about the next possible upcoming meeting that will be open to all scientists in this research area
+(postdoctoral level and higher) who are affiliated with a European institution. During the meeting various
+issues related to the possible creation of the EuroLat association will be discussed including its Executive Committee.
 
 
 Ad hoc Committee
