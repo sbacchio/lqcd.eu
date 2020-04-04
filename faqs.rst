@@ -4,7 +4,7 @@ FAQs
 
 List of FAQs:
 
-- :ref:`Input for the creation of EuroLat`
+- :ref:`Input provided upon the request of PRACE on community access by the Ad hoc committee`
 - :ref:`How to become a member of EuroLat`
 - :ref:`What is lqcd.eu`
 
