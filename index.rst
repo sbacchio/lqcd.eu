@@ -20,7 +20,7 @@ The basic idea is to gather together researchers in Lattice Field Theory working
 
 This is a **preliminary** webpage to be constructed after we collect sufficient information.
 If you are the coordinator of a local research group or the spokesperson of a collaboration, please complete the following forms for letting us know about your
-`institution <https://docs.google.com/forms/d/e/1FAIpQLSewa7fimzLeaXI0ds0im74AkaTS6TNYSBs9W7qLz32uaYqYlw/viewform>`_ |form1| or
+`institution <https://docs.google.com/forms/d/e/1FAIpQLSewa7fimzLeaXI0ds0im74AkaTS6TNYSBs9W7qLz32uaYqYlw/viewform>`_ |form1| and/or
 `collaboration <https://docs.google.com/forms/d/1Fq5kP24L1Z8FOuOAym5QePac9fMfeCVebG6TXodA7Yw/viewform>`_ |form2|.
 
 .. |form1| image:: _static/form.svg
