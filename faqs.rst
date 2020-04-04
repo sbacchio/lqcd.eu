@@ -11,8 +11,8 @@ List of FAQs:
 .. - :ref:`How to add content to the website`
 .. - :ref:`DIY: add content to the website <DIY>`
   
-Input for the creation of EuroLat
----------------------------------
+Input provided upon the request of PRACE on community access by the Ad hoc committee
+------------------------------------------------------------------------------------
 
 The Lattice Field Theory community in Europe is comprised of several collaborations, as well as smaller groups.
 Together they are part of an international research effort, and many of the larger collaborations have
@@ -34,7 +34,7 @@ input by PRACE, consisting of :ref:`C. Alexandrou <Prof. Constantia Alexandrou>`
 How to become a member of EuroLat
 ---------------------------------
 
-EuroLat is an association open to any **researcher** in Lattice Field Theory working for an Euro-based institution or collaboration.
+EuroLat is an association open to any **researcher** in Lattice Field Theory working at an Euro-based institution or collaboration.
 If you belong to the above category and you want to join EuroLat, please complete this `form <https://docs.google.com/forms/d/e/1FAIpQLSd6mpUmYDChqECVvtBKgrT2_JOeBkP5DlBAVlhY_Ohdkv18ag/viewform>`_. We will also add you to our :ref:`Mailing List`.
 
 If you are the **coordinator** of a research group in a European institution, or you are the **spokeperson**

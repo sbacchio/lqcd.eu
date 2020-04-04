@@ -26,6 +26,10 @@ div.sphinxsidebar a {
     color: #eee;
 }
 
+div.body h1 {
+    font-size: 210%;
+}
+
 div.sphinxsidebar h3 {
     margin: 20px 0;
 }
@@ -71,3 +75,4 @@ body {
 #collaborations {
     background: url(../temporary.svg) top left repeat;
 }
+
