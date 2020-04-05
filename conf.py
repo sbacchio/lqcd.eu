@@ -22,7 +22,7 @@ copyright = '2020, Simone Bacchio'
 author = 'Simone Bacchio'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.4'
+release = '0.0.5'
 
 
 # -- General configuration ---------------------------------------------------
@@ -82,7 +82,7 @@ html_theme_options = {
     'fixed_sidebar': False,
     'body_text_align': 'justify',
     'caption_font_size': '14px',
-    'page_width': '950px',
+    'page_width': '960px',
     'sidebar_hr': '#004B6B',
     'sidebar_header': '#004B6B',
     'sidebar_list': '#004B6B',

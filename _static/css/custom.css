@@ -28,6 +28,7 @@ div.sphinxsidebar a {
 
 div.body h1 {
     font-size: 200%;
+    white-space: nowrap;
 }
 
 div.sphinxsidebar h3 {
