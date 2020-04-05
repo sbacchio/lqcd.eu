@@ -142,7 +142,7 @@ Prof. Frithjof Karsch
 Prof. Sinéad Ryan
 ^^^^^^^^^^^^^^^^^
 
-| **Institutions:** :ref:`Trinity College`
+| **Institutions:** :ref:`Trinity College Dublin`
 | **Collaboration:** :ref:`FASTSUM`
 | **Publications:** http://inspirehep.net/author/profile/S.M.Ryan.1
 |
