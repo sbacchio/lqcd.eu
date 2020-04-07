@@ -29,10 +29,16 @@ div.sphinxsidebar a {
 div.body h1 {
     font-size: 200%;
     white-space: nowrap;
+    text-align: left;
+}
+
+div.sphinxsidebar h2 {
+    text-align: left;
 }
 
 div.sphinxsidebar h3 {
     margin: 20px 0;
+    text-align: left;
 }
 
 div.sphinxsidebar .badge {
