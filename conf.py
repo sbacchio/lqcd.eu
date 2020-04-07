@@ -42,6 +42,7 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+html_baseurl = 'lqcd.eu'
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -66,7 +67,7 @@ exclude_patterns = [
     '__*',
 ]
 
-html_favicon = '_static/icon.svg'
+html_favicon = '_static/icon.png'
 
 html_sidebars = {
     '**': [
@@ -78,7 +79,7 @@ html_sidebars = {
 }
 
 html_theme_options = {
-    'logo': 'logo.svg',
+    'logo': 'logo.png',
     'fixed_sidebar': False,
     'body_text_align': 'justify',
     'caption_font_size': '14px',
