@@ -2,7 +2,7 @@
 Acknowledgments
 ===============
 
-.. image:: http://www.strong-2020.eu/images/logos/logo.png
+.. image:: https://www.ectstar.eu/wp-content/uploads/2020/05/Logo_STRONG_vert-trasparente.png
    :width: 15 %
    :alt: STRONG-2020
    :align: left
