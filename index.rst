@@ -47,4 +47,5 @@ If you are the coordinator of a local research group or the spokesperson of a co
    
    faqs.rst
    contacts.rst
+   acknowledgments.rst
    
